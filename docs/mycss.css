@@ -14,3 +14,11 @@ p
 {
     font-family: "Arial Black", sans-serif;
 }
+.imageflottante
+{
+    float: left;
+}
+.dessous
+{
+    clear: both;
+}
