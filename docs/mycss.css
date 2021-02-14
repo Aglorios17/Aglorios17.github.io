@@ -5,18 +5,22 @@ body
 h1
 {
     font-family: Impact, sans-serif;
+    color: white;
 }
 h2
 {
     font-family: "Comic Sans MS", sans-serif;
+    color: white;
 }
 h3
 {
     font-family: "Times New Roman", sans-serif;
+    color: white;
 }
 p
 {
     font-family: "Arial Black", sans-serif;
+    color: white;
 }
 .imageflottante
 {
