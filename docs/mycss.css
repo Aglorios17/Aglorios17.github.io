@@ -17,7 +17,8 @@ p
 .imageflottante
 {
     float: left;
-    margin: 25px;
+    margin: 10px;
+    border-radius: 10px;
 }
 .dessous
 {
