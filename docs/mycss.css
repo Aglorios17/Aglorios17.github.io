@@ -1,6 +1,7 @@
 body
 {
     background-image: url("image/fond.jpg");
+    background-attachment: fixed;
 }
 h1
 {
